@@ -1,57 +1,10 @@
-beem - Unofficial Python Library for Steem
+creery - Unofficial Python Library for Creery
 ===============================================
 
-beem is an unofficial python library for steem, which is created new from scratch from `python-bitshares`_
-The library name is derived from a beam machine, similar to the analogy between steem and steam. beem includes `python-graphenelib`_.
-
-.. image:: https://img.shields.io/pypi/v/beem.svg
-    :target: https://pypi.python.org/pypi/beem/
-    :alt: Latest Version
-
-.. image:: https://img.shields.io/pypi/pyversions/beem.svg
-    :target: https://pypi.python.org/pypi/beem/
-    :alt: Python Versions
-
-
-.. image:: https://anaconda.org/conda-forge/beem/badges/version.svg
-    :target: https://anaconda.org/conda-forge/beem
-
-
-.. image:: https://anaconda.org/conda-forge/beem/badges/downloads.svg
-    :target: https://anaconda.org/conda-forge/beem
-
-
-Current build status
---------------------
-
-.. image:: https://travis-ci.org/holgern/beem.svg?branch=master
-    :target: https://travis-ci.org/holgern/beem
-
-.. image:: https://ci.appveyor.com/api/projects/status/ig8oqp8bt2fmr09a?svg=true
-    :target: https://ci.appveyor.com/project/holger80/beem
-
-.. image:: https://circleci.com/gh/holgern/beem.svg?style=svg
-    :target: https://circleci.com/gh/holgern/beem
-
-.. image:: https://readthedocs.org/projects/beem/badge/?version=latest
-  :target: http://beem.readthedocs.org/en/latest/?badge=latest
-
-.. image:: https://api.codacy.com/project/badge/Grade/e5476faf97df4c658697b8e7a7efebd7
-    :target: https://www.codacy.com/app/holgern/beem?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=holgern/beem&amp;utm_campaign=Badge_Grade
-
-.. image:: https://pyup.io/repos/github/holgern/beem/shield.svg
-     :target: https://pyup.io/repos/github/holgern/beem/
-     :alt: Updates
-
-.. image:: https://api.codeclimate.com/v1/badges/e7bdb5b4aa7ab160a780/test_coverage
-   :target: https://codeclimate.com/github/holgern/beem/test_coverage
-   :alt: Test Coverage
-
-Support & Documentation
-=======================
-You may find help in the  `beem-discord-channel`_. The discord channel can also be used to discuss things about beem.
-
-A complete library documentation is available at  `beem.readthedocs.io`_.
+Install on Python3
+```bash
+git clone https://github.com/Snaddyvitch-Dispenser/creery.git && cd creery && git checkout latest && python setup.py build && python3 setup.py install --user
+```
 
 Advantages over the official steem-python library
 =================================================
