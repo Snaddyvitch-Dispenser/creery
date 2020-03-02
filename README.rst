@@ -2,9 +2,9 @@ creery - Unofficial Python Library for Creery
 ===============================================
 
 Install on Python3
-``bash
+
 git clone https://github.com/Snaddyvitch-Dispenser/creery.git && cd creery && git checkout latest && python setup.py build && python3 setup.py install --user
-``
+
 
 Advantages over the official steem-python library
 =================================================
